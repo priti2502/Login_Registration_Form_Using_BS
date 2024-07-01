@@ -1,17 +1,19 @@
-# Login and Registration Form Using BootStrap
+# Login and Registration Form with Bootstrap
 
-This repository contains a simple and responsive login and registration form project built with HTML and CSS.
+This repository contains a responsive login and registration form project built with Bootstrap, providing a sleek and user-friendly interface for authentication.
 
 ## Features
 
-- Clean and intuitive user interface
-- Responsive design for various screen sizes
-- Separate forms for login and registration
+- **Responsive Design:** Ensures compatibility across various devices.
+- **Bootstrap Components:** Utilizes Bootstrap classes for form elements and layout.
+- **Clean Interface:** Simple and intuitive user experience.
 
 ## Technologies Used
 
 - HTML
-- CSS
-- BootStrap
+- CSS (Bootstrap)
+
+
+
 
 
