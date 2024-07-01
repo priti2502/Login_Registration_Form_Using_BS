@@ -1,0 +1,29 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  .custom-container {
+    width: 30%; 
+    height: auto;
+    
+    /* margin: 20px; */
+   border-radius: 10px;
+   background-color: rgb(249, 135, 13);
+   
+  }
+  body{
+    background-image: url(/login.jpg);
+    width: 100vw;
+    height: 90vh;
+    background-size: cover;
+  background-repeat: no-repeat;
+
+    
+  }
+  .custom-btn{
+      justify-content: center;
+      width: 30%;
+      
+  }
+  h1{
+    font-variant: small-caps;
+  }
