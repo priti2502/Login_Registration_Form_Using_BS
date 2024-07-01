@@ -1,4 +1,4 @@
-# Login and Registration Form
+# Login and Registration Form Using BootStrap
 
 This repository contains a simple and responsive login and registration form project built with HTML and CSS.
 
